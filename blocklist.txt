@@ -5,6 +5,7 @@
 !
 
 ! ### SECTION: DNS PUBLIC & ANTI-BYPASS ###
+||94.140.14.14^$dnsrewrite=NOERROR;A;192.168.1.1
 ||1.1.1.1^$dnsrewrite=NOERROR;A;192.168.1.1
 ||1.0.0.1^$dnsrewrite=NOERROR;A;192.168.1.1
 ||8.8.8.8^$dnsrewrite=NOERROR;A;192.168.1.1
